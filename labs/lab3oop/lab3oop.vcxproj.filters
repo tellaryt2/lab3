@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Исходные файлы">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Файлы заголовков">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Файлы ресурсов">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Исходные файлы\lab1">
+      <UniqueIdentifier>{026e772a-7251-4985-bade-20dcd9f2d9c2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\lab2">
+      <UniqueIdentifier>{af311bb3-5db0-456b-815c-9487b2498b04}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\lab3">
+      <UniqueIdentifier>{1c73206d-f61b-4b55-87e2-64661ed35dff}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\lab1">
+      <UniqueIdentifier>{42f79cb7-470d-4794-b1de-fe15f2cf261f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\lab2">
+      <UniqueIdentifier>{8d946a5f-83c5-409d-a01c-bd09324bcf77}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\lab3">
+      <UniqueIdentifier>{a2a58891-7537-404b-ab40-2f3a716b9b46}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Исходные файлы\lab3</Filter>
+    </ClCompile>
+    <ClCompile Include="Book.cpp">
+      <Filter>Исходные файлы\lab3</Filter>
+    </ClCompile>
+    <ClCompile Include="IO.cpp">
+      <Filter>Исходные файлы\lab3</Filter>
+    </ClCompile>
+    <ClCompile Include="Route.cpp">
+      <Filter>Исходные файлы\lab3</Filter>
+    </ClCompile>
+    <ClCompile Include="Point.cpp">
+      <Filter>Исходные файлы\lab3</Filter>
+    </ClCompile>
+    <ClCompile Include="Rectangle.cpp">
+      <Filter>Исходные файлы\lab3</Filter>
+    </ClCompile>
+    <ClCompile Include="Time.cpp">
+      <Filter>Исходные файлы\lab3</Filter>
+    </ClCompile>
+    <ClCompile Include="Flight.cpp">
+      <Filter>Исходные файлы\lab3</Filter>
+    </ClCompile>
+    <ClCompile Include="Song.cpp">
+      <Filter>Исходные файлы\lab3</Filter>
+    </ClCompile>
+    <ClCompile Include="Album.cpp">
+      <Filter>Исходные файлы\lab3</Filter>
+    </ClCompile>
+    <ClCompile Include="Band.cpp">
+      <Filter>Исходные файлы\lab3</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Book.h">
+      <Filter>Файлы заголовков\lab3</Filter>
+    </ClInclude>
+    <ClInclude Include="IO.h">
+      <Filter>Файлы заголовков\lab3</Filter>
+    </ClInclude>
+    <ClInclude Include="Route.h">
+      <Filter>Файлы заголовков\lab3</Filter>
+    </ClInclude>
+    <ClInclude Include="Point.h">
+      <Filter>Файлы заголовков\lab3</Filter>
+    </ClInclude>
+    <ClInclude Include="Rectangle.h">
+      <Filter>Файлы заголовков\lab3</Filter>
+    </ClInclude>
+    <ClInclude Include="Time.h">
+      <Filter>Файлы заголовков\lab3</Filter>
+    </ClInclude>
+    <ClInclude Include="Flight.h">
+      <Filter>Файлы заголовков\lab3</Filter>
+    </ClInclude>
+    <ClInclude Include="Genre.h">
+      <Filter>Файлы заголовков\lab3</Filter>
+    </ClInclude>
+    <ClInclude Include="Song.h">
+      <Filter>Файлы заголовков\lab3</Filter>
+    </ClInclude>
+    <ClInclude Include="Album.h">
+      <Filter>Файлы заголовков\lab3</Filter>
+    </ClInclude>
+    <ClInclude Include="Band.h">
+      <Filter>Файлы заголовков\lab3</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
